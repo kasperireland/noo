@@ -1,5 +1,5 @@
 {
-    "name": "Noo – the password manager",
+    "name": "Bionic – the password manager",
     "short_name": "Noo",
     "icons": [
         {
@@ -15,6 +15,6 @@
     ],
     "start_url": "..",
     "display": "standalone",
-    "theme_color": "#ffffff",
+    "theme_color": "#06db97",
     "background_color": "#ffffff"
 }
